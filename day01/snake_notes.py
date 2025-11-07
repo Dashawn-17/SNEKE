@@ -10,7 +10,7 @@ size = (WINDOW_WIDTH, WINDOW_HEIGHT)
 display_surface = pygame.display.set_mode(size)
 pygame.display.set_caption("~~SNEKE~~")
 
-# Set FSP and clock
+# Set FPS and clock
 # TODO: make a variable (constant) called FPS and initialize to 20
 clock = pygame.time.Clock()
 
@@ -72,3 +72,4 @@ while running:
 
 # End the game
 pygame.quit()
+
