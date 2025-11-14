@@ -109,8 +109,6 @@ while running:
     "We've just told the title and score to display.  
     '''
 
-
-
     # Blit assets
     # TODO: Read below.  2 TODO's, require's explanation
     '''
